@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Nash Vador
 
 
-I'm a developer based in Dublin, Ohio. Nice to meet you!
+I'm a developer. Nice to meet you!
 
 ## Technologies
 Languages  
